@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Verdana, "Microsoft yahei", "Pingfang SC", Simsun;
+}
+a{
+    text-decoration: none;
+}
+.clears{
+    height: 0;
+    overflow: hidden;
+    font-style: 0;
+    line-height: 0;
+    clear: both;
+}
+ul,li,ol{
+    list-style: none;
+}
+textarea{
+    resize: none;
+}
+button{
+    cursor: pointer;
+}
+input,button,textarea,select{
+    outline: none;
+}
+table{
+    border-collapse: collapse;
+}
